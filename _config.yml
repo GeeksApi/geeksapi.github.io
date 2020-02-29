@@ -23,14 +23,14 @@ avatar: https://github.com/GeeksApi.png
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: GeeksAPI
   flickr:
-  github: a3ammar/jekyll-now
+  github: GeeksAPI
   instagram:
   linkedin:
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: jekyllrb
+  twitter: geeks_api
   stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
   youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
   googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
