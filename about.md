@@ -1,15 +1,17 @@
 ---
 layout: page
-title: من أنا
+title: من نحن
 permalink: /about/
 ---
 
-عرف عن نفسك، من أنت؟ وماذا تعمل؟
+مجموعة من المطورين و مهندسوا برمجيات
+
 
 ### معلومات أخرى
 
-هل لديك معلومات أخرى تريد مشاركتها؟
+مواقع التواصل الاجتماعي
 
-### لمراسلتي
-
-[email@domain.com](mailto:email@domain.com)
+* Twitter: [@geeks_api](https://twitter.com/geeks_api)
+* Facebook: [GeeksAPI](https://www.facebook.com/GeeksAPI)
+* Github: [GeeksApi](https://github.com/GeeksApi)
+* Articles*: [Website](https://caramellaapp.com/geeksapi)
